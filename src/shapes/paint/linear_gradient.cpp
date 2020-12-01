@@ -2,7 +2,7 @@
 #include "math/vec2d.hpp"
 #include "node.hpp"
 #include "renderer.hpp"
-#include "shapes/paint/color.hpp"
+#include "shapes/paint/color_utils.hpp"
 #include "shapes/paint/gradient_stop.hpp"
 #include "shapes/shape_paint_container.hpp"
 #include <algorithm>

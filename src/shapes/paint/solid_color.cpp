@@ -1,7 +1,7 @@
 #include "shapes/paint/solid_color.hpp"
 #include "container_component.hpp"
 #include "renderer.hpp"
-#include "shapes/paint/color.hpp"
+#include "shapes/paint/color_utils.hpp"
 
 using namespace rive;
 

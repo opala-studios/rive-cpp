@@ -1,6 +1,6 @@
 #include "animation/keyframe_color.hpp"
 #include "generated/core_registry.hpp"
-#include "shapes/paint/color.hpp"
+#include "shapes/paint/color_utils.hpp"
 
 using namespace rive;
 
